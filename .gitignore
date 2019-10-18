@@ -1,0 +1,12 @@
+**/.settings/
+**/bin/
+**/gen/
+**/.classpath
+**/.project
+.idea/
+/*/build/
+local.properties
+*.iml
+**/.DS_Store
+build
+modules
